@@ -29,6 +29,12 @@
 			{
                 		"key": "ctrl+shift+[Semicolon]",
                 		"command": "workbench.action.terminal.new"
+			},
+			{	"key": "ctrl+[BracketLeft]",
+				"command": "editor.action.indentLines"
+			},
+			{	"key": "ctrl+[BracketRight]",
+				"command": "editor.action.outdentLines"
 			}
 		]
 	},
