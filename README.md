@@ -11,3 +11,5 @@ This extension maps Finnish/Swedish keyboard shortcuts that are present Windows'
 | ctrl + shift + ` | fold
 | ctrl + shift + å | unfold
 | ctrl + shift + ö | new terminal
+| ctrl + å | indent line |
+| ctrl + ¨ | outdent line |
