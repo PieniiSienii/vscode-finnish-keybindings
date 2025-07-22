@@ -13,3 +13,4 @@ This extension maps Finnish/Swedish keyboard shortcuts that are present Windows'
 | ctrl + shift + ö | new terminal
 | ctrl + å | indent line |
 | ctrl + ¨ | outdent line |
+| ctrl + § | toggle terminal |
