@@ -32,11 +32,11 @@
       },
       {
         "key": "ctrl+[BracketLeft]",
-        "command": "editor.action.indentLines"
+        "command": "editor.action.outdentLines"
       },
       {
         "key": "ctrl+[BracketRight]",
-        "command": "editor.action.outdentLines"
+        "command": "editor.action.indentLines"
       },
       {
         "key": "ctrl+[Backquote]",
